@@ -1,5 +1,5 @@
 local loader = {}
-local loader_version = 1.1
+local loader_version = 1.2
 local base_url = "https://raw.githubusercontent.com/XiSl0w/bruhwalker/main/"
 local my_dir = "\\brrrrAIO"
 local common_dir = my_dir .. "\\Common"
@@ -8,7 +8,7 @@ local scripts_dir = my_dir .. "\\Scripts"
 local player = game.local_player
 
 local supported = {
-    ["Draven"] = 1.1,
+    ["Draven"] = 1.2,
     ["Sion"] = 1.1
 }
 
